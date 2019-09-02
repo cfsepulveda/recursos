@@ -1,0 +1,58 @@
+[
+  {
+    "a_o": "2019",
+    "mes": "Enero",
+    "femenino": "1008184",
+    "masculino": "1020233",
+    "no_registra": "136398",
+    "total": "2164815"
+  },
+  {
+    "a_o": "2019",
+    "mes": "Febrero",
+    "femenino": "1044820",
+    "masculino": "1078114",
+    "no_registra": "157053",
+    "total": "2279987"
+  },
+  {
+    "a_o": "2019",
+    "mes": "Marzo",
+    "femenino": "1048539",
+    "masculino": "1080248",
+    "no_registra": "162660",
+    "total": "2291447"
+  },
+  {
+    "a_o": "2019",
+    "mes": "Abril",
+    "femenino": "1051281",
+    "masculino": "1080841",
+    "no_registra": "165476",
+    "total": "2297598"
+  },
+  {
+    "a_o": "2019",
+    "mes": "Mayo",
+    "femenino": "1054520",
+    "masculino": "1081740",
+    "no_registra": "168962",
+    "total": "2305222"
+  },
+  {
+    "a_o": "2019",
+    "mes": "Junio",
+    "femenino": "1057750",
+    "masculino": "1082193",
+    "no_registra": "170823",
+    "total": "2310766"
+  },
+  {
+    "a_o": "2019",
+    "mes": "Julio",
+    "femenino": "1060282",
+    "masculino": "1081766",
+    "no_registra": "171903",
+    "total": "2313951"
+  }
+]
