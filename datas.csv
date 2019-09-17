@@ -8,7 +8,6 @@ BOGOTA D.C,formacion_tecnica_profesional,38061
 BOGOTA D.C,maestr_a,25431
 BOGOTA D.C,tecnologica,157675
 BOGOTA D.C,universitaria,525511
-BOGOTA D.C,matricula,792579
 BOGOTA D.C,ies_con_oferta,126
 ANTIOQUIA,doctorado,1596
 ANTIOQUIA,especializacion_medico_quir,382
@@ -19,7 +18,6 @@ ANTIOQUIA,formacion_tecnica_profesional,3288
 ANTIOQUIA,maestr_a,7251
 ANTIOQUIA,tecnologica,104298
 ANTIOQUIA,universitaria,205054
-ANTIOQUIA,matricula,334374
 ANTIOQUIA,ies_con_oferta,131
 VALLE DEL CAUCA,doctorado,697
 VALLE DEL CAUCA,especializacion_medico_quir,384
@@ -30,7 +28,6 @@ VALLE DEL CAUCA,formacion_tecnica_profesional,7186
 VALLE DEL CAUCA,maestr_a,5276
 VALLE DEL CAUCA,tecnologica,48328
 VALLE DEL CAUCA,universitaria,111712
-VALLE DEL CAUCA,matricula,179012
 VALLE DEL CAUCA,ies_con_oferta,108
 ATLANTICO,doctorado,298
 ATLANTICO,especializacion_medico_quir,401
@@ -41,7 +38,6 @@ ATLANTICO,formacion_tecnica_profesional,6836
 ATLANTICO,maestr_a,2667
 ATLANTICO,tecnologica,32999
 ATLANTICO,universitaria,87228
-ATLANTICO,matricula,133938
 ATLANTICO,ies_con_oferta,45
 SANTANDER,doctorado,152
 SANTANDER,especializacion_medico_quir,213
@@ -52,7 +48,6 @@ SANTANDER,formacion_tecnica_profesional,1550
 SANTANDER,maestr_a,10720
 SANTANDER,tecnologica,40328
 SANTANDER,universitaria,69546
-SANTANDER,matricula,128975
 SANTANDER,ies_con_oferta,63
 CUNDINAMARCA,doctorado,80
 CUNDINAMARCA,especializacion_medico_quir,238
@@ -63,7 +58,6 @@ CUNDINAMARCA,formacion_tecnica_profesional,843
 CUNDINAMARCA,maestr_a,1460
 CUNDINAMARCA,tecnologica,34719
 CUNDINAMARCA,universitaria,40588
-CUNDINAMARCA,matricula,79521
 CUNDINAMARCA,ies_con_oferta,62
 BOLIVAR,doctorado,118
 BOLIVAR,especializacion_medico_quir,321
@@ -74,7 +68,6 @@ BOLIVAR,formacion_tecnica_profesional,2079
 BOLIVAR,maestr_a,1371
 BOLIVAR,tecnologica,29123
 BOLIVAR,universitaria,41268
-BOLIVAR,matricula,76116
 BOLIVAR,ies_con_oferta,51
 NORTE DE SANTANDER,doctorado,0
 NORTE DE SANTANDER,especializacion_medico_quir,0
@@ -85,7 +78,6 @@ NORTE DE SANTANDER,formacion_tecnica_profesional,1153
 NORTE DE SANTANDER,maestr_a,1177
 NORTE DE SANTANDER,tecnologica,12750
 NORTE DE SANTANDER,universitaria,54158
-NORTE DE SANTANDER,matricula,70912
 NORTE DE SANTANDER,ies_con_oferta,41
 BOYACA,doctorado,155
 BOYACA,especializacion_medico_quir,0
@@ -96,7 +88,6 @@ BOYACA,formacion_tecnica_profesional,1937
 BOYACA,maestr_a,1666
 BOYACA,tecnologica,13719
 BOYACA,universitaria,44897
-BOYACA,matricula,65717
 BOYACA,ies_con_oferta,47
 CALDAS,doctorado,477
 CALDAS,especializacion_medico_quir,109
@@ -107,7 +98,6 @@ CALDAS,formacion_tecnica_profesional,3294
 CALDAS,maestr_a,3121
 CALDAS,tecnologica,10105
 CALDAS,universitaria,31772
-CALDAS,matricula,51034
 CALDAS,ies_con_oferta,48
 RISARALDA,doctorado,127
 RISARALDA,especializacion_medico_quir,56
@@ -118,7 +108,6 @@ RISARALDA,formacion_tecnica_profesional,1718
 RISARALDA,maestr_a,1746
 RISARALDA,tecnologica,12691
 RISARALDA,universitaria,32966
-RISARALDA,matricula,50952
 RISARALDA,ies_con_oferta,34
 TOLIMA,doctorado,19
 TOLIMA,especializacion_medico_quir,0
@@ -129,7 +118,6 @@ TOLIMA,formacion_tecnica_profesional,3497
 TOLIMA,maestr_a,599
 TOLIMA,tecnologica,17272
 TOLIMA,universitaria,27154
-TOLIMA,matricula,49859
 TOLIMA,ies_con_oferta,50
 CAUCA,doctorado,123
 CAUCA,especializacion_medico_quir,0
@@ -140,7 +128,6 @@ CAUCA,formacion_tecnica_profesional,13
 CAUCA,maestr_a,960
 CAUCA,tecnologica,13965
 CAUCA,universitaria,31785
-CAUCA,matricula,48110
 CAUCA,ies_con_oferta,39
 NARINO,doctorado,45
 NARINO,especializacion_medico_quir,0
@@ -151,5 +138,4 @@ NARINO,formacion_tecnica_profesional,305
 NARINO,maestr_a,956
 NARINO,tecnologica,4723
 NARINO,universitaria,34080
-NARINO,matricula,41321
 NARINO,ies_con_oferta,47
