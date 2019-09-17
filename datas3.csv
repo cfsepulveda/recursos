@@ -1,0 +1,125 @@
+departamento,educacion_superior,numero
+BOGOTA D.C,Doctorado,2215
+BOGOTA D.C,Especializacion Medica,2733
+BOGOTA D.C,Especializacion Tecnica,106
+BOGOTA D.C,Especializacion Tecnologica,1914
+BOGOTA D.C,Especializacion Universitaria,38933
+BOGOTA D.C,Tecnico Profesional,38061
+BOGOTA D.C,Maestria,25431
+BOGOTA D.C,tecnologica,157675
+BOGOTA D.C,Pregrado,525511
+ANTIOQUIA,Especializacion Medica,382
+ANTIOQUIA,Especializacion Tecnica,0
+ANTIOQUIA,Especializacion Tecnologica,2344
+ANTIOQUIA,Especializacion Universitaria,10161
+ANTIOQUIA,Tecnico Profesional,3288
+ANTIOQUIA,Maestria,7251
+ANTIOQUIA,tecnologica,104298
+ANTIOQUIA,Pregrado,205054
+VALLE DEL CAUCA,Especializacion Medica,384
+VALLE DEL CAUCA,Especializacion Tecnica,0
+VALLE DEL CAUCA,Especializacion Tecnologica,1050
+VALLE DEL CAUCA,Especializacion Universitaria,4379
+VALLE DEL CAUCA,Tecnico Profesional,7186
+VALLE DEL CAUCA,Maestria,5276
+VALLE DEL CAUCA,tecnologica,48328
+VALLE DEL CAUCA,Pregrado,111712
+ATLANTICO,Doctorado,298
+ATLANTICO,Especializacion Medica,401
+ATLANTICO,Especializacion Tecnica,0
+ATLANTICO,Especializacion Tecnologica,205
+ATLANTICO,Especializacion Universitaria,3304
+ATLANTICO,Tecnico Profesional,6836
+ATLANTICO,Maestria,2667
+ATLANTICO,tecnologica,32999
+ATLANTICO,Pregrado,87228
+SANTANDER,Doctorado,152
+SANTANDER,Especializacion Medica,213
+SANTANDER,Especializacion Tecnica,0
+SANTANDER,Especializacion Tecnologica,441
+SANTANDER,Especializacion Universitaria,6025
+SANTANDER,Tecnico Profesional,1550
+SANTANDER,Maestria,10720
+SANTANDER,tecnologica,40328
+SANTANDER,Pregrado,69546
+CUNDINAMARCA,Doctorado,80
+CUNDINAMARCA,Especializacion Medica,238
+CUNDINAMARCA,Especializacion Tecnica,0
+CUNDINAMARCA,Especializacion Tecnologica,282
+CUNDINAMARCA,Especializacion Universitaria,1311
+CUNDINAMARCA,Tecnico Profesional,843
+CUNDINAMARCA,Maestria,1460
+CUNDINAMARCA,tecnologica,34719
+CUNDINAMARCA,Pregrado,40588
+BOLIVAR,Doctorado,118
+BOLIVAR,Especializacion Medica,321
+BOLIVAR,Especializacion Tecnica,0
+BOLIVAR,Especializacion Tecnologica,0
+BOLIVAR,Especializacion Universitaria,1836
+BOLIVAR,Tecnico Profesional,2079
+BOLIVAR,Maestria,1371
+BOLIVAR,tecnologica,29123
+BOLIVAR,Pregrado,41268
+NORTE DE SANTANDER,Doctorado,0
+NORTE DE SANTANDER,Especializacion Medica,0
+NORTE DE SANTANDER,Especializacion Tecnica,0
+NORTE DE SANTANDER,Especializacion Tecnologica,627
+NORTE DE SANTANDER,Especializacion Universitaria,1047
+NORTE DE SANTANDER,Tecnico Profesional,1153
+NORTE DE SANTANDER,Maestria,1177
+NORTE DE SANTANDER,tecnologica,12750
+NORTE DE SANTANDER,Pregrado,54158
+BOYACA,Doctorado,155
+BOYACA,Especializacion Medica,0
+BOYACA,Especializacion Tecnica,0
+BOYACA,Especializacion Tecnologica,266
+BOYACA,Especializacion Universitaria,3077
+BOYACA,Tecnico Profesional,1937
+BOYACA,Maestria,1666
+BOYACA,tecnologica,13719
+BOYACA,Pregrado,44897
+CALDAS,Doctorado,477
+CALDAS,Especializacion Medica,109
+CALDAS,Especializacion Tecnica,0
+CALDAS,Especializacion Tecnologica,438
+CALDAS,Especializacion Universitaria,1718
+CALDAS,Tecnico Profesional,3294
+CALDAS,Maestria,3121
+CALDAS,tecnologica,10105
+CALDAS,Pregrado,31772
+RISARALDA,Doctorado,127
+RISARALDA,Especializacion Medica,56
+RISARALDA,Especializacion Tecnica,0
+RISARALDA,Especializacion Tecnologica,191
+RISARALDA,Especializacion Universitaria,1457
+RISARALDA,Tecnico Profesional,1718
+RISARALDA,Maestria,1746
+RISARALDA,tecnologica,12691
+RISARALDA,Pregrado,32966
+TOLIMA,Doctorado,19
+TOLIMA,Especializacion Medica,0
+TOLIMA,Especializacion Tecnica,0
+TOLIMA,Especializacion Tecnologica,492
+TOLIMA,Especializacion Universitaria,826
+TOLIMA,Tecnico Profesional,3497
+TOLIMA,Maestria,599
+TOLIMA,tecnologica,17272
+TOLIMA,Pregrado,27154
+CAUCA,Doctorado,123
+CAUCA,Especializacion Medica,0
+CAUCA,Especializacion Tecnica,0
+CAUCA,Especializacion Tecnologica,204
+CAUCA,Especializacion Universitaria,1060
+CAUCA,Tecnico Profesional,13
+CAUCA,Maestria,960
+CAUCA,tecnologica,13965
+CAUCA,Pregrado,31785
+NARINO,Doctorado,45
+NARINO,Especializacion Medica,0
+NARINO,Especializacion Tecnica,0
+NARINO,Especializacion Tecnologica,81
+NARINO,Especializacion Universitaria,1131
+NARINO,Tecnico Profesional,305
+NARINO,Maestria,956
+NARINO,tecnologica,4723
+NARINO,Pregrado,34080
