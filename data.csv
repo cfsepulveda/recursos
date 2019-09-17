@@ -1,155 +1,155 @@
-departamento;educacion_superior;numero
-BOGOTA D.C ;doctorado;2215
-BOGOTA D.C ;especializacion_medico_quir;2733
-BOGOTA D.C ;especializacion_tecnico;106
-BOGOTA D.C ;especializacion_tecnologica;1914
-BOGOTA D.C ;especializacion_universitaria;38933
-BOGOTA D.C ;formacion_tecnica_profesional;38061
-BOGOTA D.C ;maestr_a;25431
-BOGOTA D.C ;tecnologica;157675
-BOGOTA D.C ;universitaria;525511
-BOGOTA D.C ;matricula;792579
-BOGOTA D.C ;ies_con_oferta;126
-ANTIOQUIA ;doctorado;1596
-ANTIOQUIA ;especializacion_medico_quir;382
-ANTIOQUIA ;especializacion_tecnico;0
-ANTIOQUIA ;especializacion_tecnologica;2344
-ANTIOQUIA ;especializacion_universitaria;10161
-ANTIOQUIA ;formacion_tecnica_profesional;3288
-ANTIOQUIA ;maestr_a;7251
-ANTIOQUIA ;tecnologica;104298
-ANTIOQUIA ;universitaria;205054
-ANTIOQUIA ;matricula;334374
-ANTIOQUIA ;ies_con_oferta;131
-VALLE DEL CAUCA ;doctorado;697
-VALLE DEL CAUCA ;especializacion_medico_quir;384
-VALLE DEL CAUCA ;especializacion_tecnico;0
-VALLE DEL CAUCA ;especializacion_tecnologica;1050
-VALLE DEL CAUCA ;especializacion_universitaria;4379
-VALLE DEL CAUCA ;formacion_tecnica_profesional;7186
-VALLE DEL CAUCA ;maestr_a;5276
-VALLE DEL CAUCA ;tecnologica;48328
-VALLE DEL CAUCA ;universitaria;111712
-VALLE DEL CAUCA ;matricula;179012
-VALLE DEL CAUCA ;ies_con_oferta;108
-ATLANTICO ;doctorado;298
-ATLANTICO ;especializacion_medico_quir;401
-ATLANTICO ;especializacion_tecnico;0
-ATLANTICO ;especializacion_tecnologica;205
-ATLANTICO ;especializacion_universitaria;3304
-ATLANTICO ;formacion_tecnica_profesional;6836
-ATLANTICO ;maestr_a;2667
-ATLANTICO ;tecnologica;32999
-ATLANTICO ;universitaria;87228
-ATLANTICO ;matricula;133938
-ATLANTICO ;ies_con_oferta;45
-SANTANDER ;doctorado;152
-SANTANDER ;especializacion_medico_quir;213
-SANTANDER ;especializacion_tecnico;0
-SANTANDER ;especializacion_tecnologica;441
-SANTANDER ;especializacion_universitaria;6025
-SANTANDER ;formacion_tecnica_profesional;1550
-SANTANDER ;maestr_a;10720
-SANTANDER ;tecnologica;40328
-SANTANDER ;universitaria;69546
-SANTANDER ;matricula;128975
-SANTANDER ;ies_con_oferta;63
-CUNDINAMARCA ;doctorado;80
-CUNDINAMARCA ;especializacion_medico_quir;238
-CUNDINAMARCA ;especializacion_tecnico;0
-CUNDINAMARCA ;especializacion_tecnologica;282
-CUNDINAMARCA ;especializacion_universitaria;1311
-CUNDINAMARCA ;formacion_tecnica_profesional;843
-CUNDINAMARCA ;maestr_a;1460
-CUNDINAMARCA ;tecnologica;34719
-CUNDINAMARCA ;universitaria;40588
-CUNDINAMARCA ;matricula;79521
-CUNDINAMARCA ;ies_con_oferta;62
-BOLIVAR ;doctorado;118
-BOLIVAR ;especializacion_medico_quir;321
-BOLIVAR ;especializacion_tecnico;0
-BOLIVAR ;especializacion_tecnologica;0
-BOLIVAR ;especializacion_universitaria;1836
-BOLIVAR ;formacion_tecnica_profesional;2079
-BOLIVAR ;maestr_a;1371
-BOLIVAR ;tecnologica;29123
-BOLIVAR ;universitaria;41268
-BOLIVAR ;matricula;76116
-BOLIVAR ;ies_con_oferta;51
-NORTE DE SANTANDER ;doctorado;0
-NORTE DE SANTANDER ;especializacion_medico_quir;0
-NORTE DE SANTANDER ;especializacion_tecnico;0
-NORTE DE SANTANDER ;especializacion_tecnologica;627
-NORTE DE SANTANDER ;especializacion_universitaria;1047
-NORTE DE SANTANDER ;formacion_tecnica_profesional;1153
-NORTE DE SANTANDER ;maestr_a;1177
-NORTE DE SANTANDER ;tecnologica;12750
-NORTE DE SANTANDER ;universitaria;54158
-NORTE DE SANTANDER ;matricula;70912
-NORTE DE SANTANDER ;ies_con_oferta;41
-BOYACA ;doctorado;155
-BOYACA ;especializacion_medico_quir;0
-BOYACA ;especializacion_tecnico;0
-BOYACA ;especializacion_tecnologica;266
-BOYACA ;especializacion_universitaria;3077
-BOYACA ;formacion_tecnica_profesional;1937
-BOYACA ;maestr_a;1666
-BOYACA ;tecnologica;13719
-BOYACA ;universitaria;44897
-BOYACA ;matricula;65717
-BOYACA ;ies_con_oferta;47
-CALDAS ;doctorado;477
-CALDAS ;especializacion_medico_quir;109
-CALDAS ;especializacion_tecnico;0
-CALDAS ;especializacion_tecnologica;438
-CALDAS ;especializacion_universitaria;1718
-CALDAS ;formacion_tecnica_profesional;3294
-CALDAS ;maestr_a;3121
-CALDAS ;tecnologica;10105
-CALDAS ;universitaria;31772
-CALDAS ;matricula;51034
-CALDAS ;ies_con_oferta;48
-RISARALDA ;doctorado;127
-RISARALDA ;especializacion_medico_quir;56
-RISARALDA ;especializacion_tecnico;0
-RISARALDA ;especializacion_tecnologica;191
-RISARALDA ;especializacion_universitaria;1457
-RISARALDA ;formacion_tecnica_profesional;1718
-RISARALDA ;maestr_a;1746
-RISARALDA ;tecnologica;12691
-RISARALDA ;universitaria;32966
-RISARALDA ;matricula;50952
-RISARALDA ;ies_con_oferta;34
-TOLIMA ;doctorado;19
-TOLIMA ;especializacion_medico_quir;0
-TOLIMA ;especializacion_tecnico;0
-TOLIMA ;especializacion_tecnologica;492
-TOLIMA ;especializacion_universitaria;826
-TOLIMA ;formacion_tecnica_profesional;3497
-TOLIMA ;maestr_a;599
-TOLIMA ;tecnologica;17272
-TOLIMA ;universitaria;27154
-TOLIMA ;matricula;49859
-TOLIMA ;ies_con_oferta;50
-CAUCA ;doctorado;123
-CAUCA ;especializacion_medico_quir;0
-CAUCA ;especializacion_tecnico;0
-CAUCA ;especializacion_tecnologica;204
-CAUCA ;especializacion_universitaria;1060
-CAUCA ;formacion_tecnica_profesional;13
-CAUCA ;maestr_a;960
-CAUCA ;tecnologica;13965
-CAUCA ;universitaria;31785
-CAUCA ;matricula;48110
-CAUCA ;ies_con_oferta;39
-NARINO ;doctorado;45
-NARINO ;especializacion_medico_quir;0
-NARINO ;especializacion_tecnico;0
-NARINO ;especializacion_tecnologica;81
-NARINO ;especializacion_universitaria;1131
-NARINO ;formacion_tecnica_profesional;305
-NARINO ;maestr_a;956
-NARINO ;tecnologica;4723
-NARINO ;universitaria;34080
-NARINO ;matricula;41321
-NARINO ;ies_con_oferta;47
+departamento,educacion_superior,numero
+BOGOTA D.C ,doctorado,2215
+BOGOTA D.C ,especializacion_medico_quir,2733
+BOGOTA D.C ,especializacion_tecnico,106
+BOGOTA D.C ,especializacion_tecnologica,1914
+BOGOTA D.C ,especializacion_universitaria,38933
+BOGOTA D.C ,formacion_tecnica_profesional,38061
+BOGOTA D.C ,maestr_a,25431
+BOGOTA D.C ,tecnologica,157675
+BOGOTA D.C ,universitaria,525511
+BOGOTA D.C ,matricula,792579
+BOGOTA D.C ,ies_con_oferta,126
+ANTIOQUIA ,doctorado,1596
+ANTIOQUIA ,especializacion_medico_quir,382
+ANTIOQUIA ,especializacion_tecnico,0
+ANTIOQUIA ,especializacion_tecnologica,2344
+ANTIOQUIA ,especializacion_universitaria,10161
+ANTIOQUIA ,formacion_tecnica_profesional,3288
+ANTIOQUIA ,maestr_a,7251
+ANTIOQUIA ,tecnologica,104298
+ANTIOQUIA ,universitaria,205054
+ANTIOQUIA ,matricula,334374
+ANTIOQUIA ,ies_con_oferta,131
+VALLE DEL CAUCA ,doctorado,697
+VALLE DEL CAUCA ,especializacion_medico_quir,384
+VALLE DEL CAUCA ,especializacion_tecnico,0
+VALLE DEL CAUCA ,especializacion_tecnologica,1050
+VALLE DEL CAUCA ,especializacion_universitaria,4379
+VALLE DEL CAUCA ,formacion_tecnica_profesional,7186
+VALLE DEL CAUCA ,maestr_a,5276
+VALLE DEL CAUCA ,tecnologica,48328
+VALLE DEL CAUCA ,universitaria,111712
+VALLE DEL CAUCA ,matricula,179012
+VALLE DEL CAUCA ,ies_con_oferta,108
+ATLANTICO ,doctorado,298
+ATLANTICO ,especializacion_medico_quir,401
+ATLANTICO ,especializacion_tecnico,0
+ATLANTICO ,especializacion_tecnologica,205
+ATLANTICO ,especializacion_universitaria,3304
+ATLANTICO ,formacion_tecnica_profesional,6836
+ATLANTICO ,maestr_a,2667
+ATLANTICO ,tecnologica,32999
+ATLANTICO ,universitaria,87228
+ATLANTICO ,matricula,133938
+ATLANTICO ,ies_con_oferta,45
+SANTANDER ,doctorado,152
+SANTANDER ,especializacion_medico_quir,213
+SANTANDER ,especializacion_tecnico,0
+SANTANDER ,especializacion_tecnologica,441
+SANTANDER ,especializacion_universitaria,6025
+SANTANDER ,formacion_tecnica_profesional,1550
+SANTANDER ,maestr_a,10720
+SANTANDER ,tecnologica,40328
+SANTANDER ,universitaria,69546
+SANTANDER ,matricula,128975
+SANTANDER ,ies_con_oferta,63
+CUNDINAMARCA ,doctorado,80
+CUNDINAMARCA ,especializacion_medico_quir,238
+CUNDINAMARCA ,especializacion_tecnico,0
+CUNDINAMARCA ,especializacion_tecnologica,282
+CUNDINAMARCA ,especializacion_universitaria,1311
+CUNDINAMARCA ,formacion_tecnica_profesional,843
+CUNDINAMARCA ,maestr_a,1460
+CUNDINAMARCA ,tecnologica,34719
+CUNDINAMARCA ,universitaria,40588
+CUNDINAMARCA ,matricula,79521
+CUNDINAMARCA ,ies_con_oferta,62
+BOLIVAR ,doctorado,118
+BOLIVAR ,especializacion_medico_quir,321
+BOLIVAR ,especializacion_tecnico,0
+BOLIVAR ,especializacion_tecnologica,0
+BOLIVAR ,especializacion_universitaria,1836
+BOLIVAR ,formacion_tecnica_profesional,2079
+BOLIVAR ,maestr_a,1371
+BOLIVAR ,tecnologica,29123
+BOLIVAR ,universitaria,41268
+BOLIVAR ,matricula,76116
+BOLIVAR ,ies_con_oferta,51
+NORTE DE SANTANDER ,doctorado,0
+NORTE DE SANTANDER ,especializacion_medico_quir,0
+NORTE DE SANTANDER ,especializacion_tecnico,0
+NORTE DE SANTANDER ,especializacion_tecnologica,627
+NORTE DE SANTANDER ,especializacion_universitaria,1047
+NORTE DE SANTANDER ,formacion_tecnica_profesional,1153
+NORTE DE SANTANDER ,maestr_a,1177
+NORTE DE SANTANDER ,tecnologica,12750
+NORTE DE SANTANDER ,universitaria,54158
+NORTE DE SANTANDER ,matricula,70912
+NORTE DE SANTANDER ,ies_con_oferta,41
+BOYACA ,doctorado,155
+BOYACA ,especializacion_medico_quir,0
+BOYACA ,especializacion_tecnico,0
+BOYACA ,especializacion_tecnologica,266
+BOYACA ,especializacion_universitaria,3077
+BOYACA ,formacion_tecnica_profesional,1937
+BOYACA ,maestr_a,1666
+BOYACA ,tecnologica,13719
+BOYACA ,universitaria,44897
+BOYACA ,matricula,65717
+BOYACA ,ies_con_oferta,47
+CALDAS ,doctorado,477
+CALDAS ,especializacion_medico_quir,109
+CALDAS ,especializacion_tecnico,0
+CALDAS ,especializacion_tecnologica,438
+CALDAS ,especializacion_universitaria,1718
+CALDAS ,formacion_tecnica_profesional,3294
+CALDAS ,maestr_a,3121
+CALDAS ,tecnologica,10105
+CALDAS ,universitaria,31772
+CALDAS ,matricula,51034
+CALDAS ,ies_con_oferta,48
+RISARALDA ,doctorado,127
+RISARALDA ,especializacion_medico_quir,56
+RISARALDA ,especializacion_tecnico,0
+RISARALDA ,especializacion_tecnologica,191
+RISARALDA ,especializacion_universitaria,1457
+RISARALDA ,formacion_tecnica_profesional,1718
+RISARALDA ,maestr_a,1746
+RISARALDA ,tecnologica,12691
+RISARALDA ,universitaria,32966
+RISARALDA ,matricula,50952
+RISARALDA ,ies_con_oferta,34
+TOLIMA ,doctorado,19
+TOLIMA ,especializacion_medico_quir,0
+TOLIMA ,especializacion_tecnico,0
+TOLIMA ,especializacion_tecnologica,492
+TOLIMA ,especializacion_universitaria,826
+TOLIMA ,formacion_tecnica_profesional,3497
+TOLIMA ,maestr_a,599
+TOLIMA ,tecnologica,17272
+TOLIMA ,universitaria,27154
+TOLIMA ,matricula,49859
+TOLIMA ,ies_con_oferta,50
+CAUCA ,doctorado,123
+CAUCA ,especializacion_medico_quir,0
+CAUCA ,especializacion_tecnico,0
+CAUCA ,especializacion_tecnologica,204
+CAUCA ,especializacion_universitaria,1060
+CAUCA ,formacion_tecnica_profesional,13
+CAUCA ,maestr_a,960
+CAUCA ,tecnologica,13965
+CAUCA ,universitaria,31785
+CAUCA ,matricula,48110
+CAUCA ,ies_con_oferta,39
+NARINO ,doctorado,45
+NARINO ,especializacion_medico_quir,0
+NARINO ,especializacion_tecnico,0
+NARINO ,especializacion_tecnologica,81
+NARINO ,especializacion_universitaria,1131
+NARINO ,formacion_tecnica_profesional,305
+NARINO ,maestr_a,956
+NARINO ,tecnologica,4723
+NARINO ,universitaria,34080
+NARINO ,matricula,41321
+NARINO ,ies_con_oferta,47
