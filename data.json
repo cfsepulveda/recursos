@@ -1,0 +1,29 @@
+﻿{
+  "data": [
+    {
+      "manager": "1",
+      "office_code": "453",
+      "office_description": "HUB PYME 3"
+    },
+    {
+      "manager": "2",
+      "office_code": "453",
+      "office_description": "HUB PYME 3"
+    },
+    {
+      "manager": "3",
+      "office_code": "9017",
+      "office_description": "HUB PYME 2"
+    },
+    {
+      "manager": "4",
+      "office_code": "191",
+      "office_description": "MONTERIA CENTRO"
+    },
+    {
+      "manager": "5",
+      "office_code": "9999",
+      "office_description": "OFICINA GENERICA"
+    }
+  ]
+}
